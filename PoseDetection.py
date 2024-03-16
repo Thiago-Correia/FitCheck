@@ -1,7 +1,6 @@
 import cv2
 import mediapipe as mp
 import numpy as np
-import tkinter as tk
 from mediapipe.python.solutions.pose import PoseLandmark
 from mediapipe.python.solutions.drawing_utils import DrawingSpec
 
